@@ -1,0 +1,34 @@
+body{
+	background-color: #edc53f;
+}
+#container{
+	width:374px;
+	height: auto;
+	display: block;
+	margin:0 auto;
+	background-color: #001f3f;
+	padding: 0 10px;
+}
+.grid-row{
+	border-top: 1px solid #eee;
+	height: 50px;
+	padding: 10px 0;
+}
+.grid-cell{
+	border-radius: 50%;
+	background-color: #edc53f;
+	width: 50px;
+	height:100%;
+	display:inline-block;
+
+}
+.grid-cell.red{
+	background-color:red;
+}
+
+.grid-cell.black{
+	background-color: black;
+}
+.undo{
+	
+}
