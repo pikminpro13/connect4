@@ -8,6 +8,8 @@ body{
 	margin:0 auto;
 	background-color: #001f3f;
 	padding: 0 10px;
+	user-select:none;
+	-webkit-user-select:none;
 }
 .grid-row{
 	border-top: 1px solid #eee;
